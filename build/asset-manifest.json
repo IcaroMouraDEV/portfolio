@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IcaroMouraDEV.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/IcaroMouraDEV.github.io/static/js/main.576b2b30.js",
+    "index.html": "/IcaroMouraDEV.github.io/index.html",
+    "main.f855e6bc.css.map": "/IcaroMouraDEV.github.io/static/css/main.f855e6bc.css.map",
+    "main.576b2b30.js.map": "/IcaroMouraDEV.github.io/static/js/main.576b2b30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.576b2b30.js"
+  ]
+}
