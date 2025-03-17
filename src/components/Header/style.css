@@ -1,0 +1,33 @@
+.header {
+  align-items: center;
+  /* background-color: #3a3f47; */
+  border-bottom: .25rem solid #3a3f47;
+  color: #e6eae1;
+  display: flex;
+  padding: .1vh 1vw;
+}
+
+.header .links {
+  align-items: center;
+  display: flex;
+  gap: 1.5rem;
+  padding: 0 25vw;
+  width: 100vw;
+}
+
+.header .links .link {
+  font-size: 1.25rem;
+}
+
+.header .links .link a {
+  color: #d1d5da;
+}
+
+.header .links .link a:hover {
+  color: #0097a7;
+}
+
+.header .links a {
+  color: #e6eae1;
+  text-decoration: none;
+}
